@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Runtime.InteropServices.Marshalling;
+using QuickKartBL;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+    }
+}
