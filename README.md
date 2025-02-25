@@ -1,5 +1,11 @@
-# learn-dsa-python-dotnet
+# Technologies that I need to learn
 
-
-
-# First commit to repo
+# TypeScript
+# Angular 18
+# Python
+# DSA
+# C#
+# SQL
+# MS SQL Server
+# Entity Framework Core
+# ASP.Net Core, WEB API, MVC

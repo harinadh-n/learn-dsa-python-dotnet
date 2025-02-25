@@ -1,12 +1,8 @@
 let greetings : string = "Hello Harinadh";
 
-let mynum = 6;
+var mynum = 6;
 
-
-
-
-
-
+console.log(mynum);
 console.log(greetings);
 
-export{} //remove the error temporraly for cannot declarered scoped valriables locally
+export{} //remove the error temporarly for cannot declarered scoped valriables locally

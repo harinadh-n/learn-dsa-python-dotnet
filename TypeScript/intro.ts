@@ -4,4 +4,5 @@ console.log("Harinadh");
 console.log(user.name);
 
 
+//var email = user.emailid;   throws error that all type script does..
 
